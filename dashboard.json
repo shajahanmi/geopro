@@ -1,0 +1,43 @@
+{
+  "Status":"OK",
+  "ErrorMessage":"",
+  "Data":{
+    "UserName":"Shajahan K",
+    "Started":10,
+    "Pending":18,
+    "Completed":25,
+    "OnGoingTasks":[
+      {
+        "WellLocationRequestID":"1",
+        "Name":"IssueLocationMemo",
+        "FieldName":"Field One",
+        "WellNumber":"WE-1123",
+        "RigNo":"RIG001"
+      },
+       {
+        "WellLocationRequestID":"1",
+        "Name":"IssueLocationMemo",
+        "FieldName":"Field One",
+        "WellNumber":"WE-1123",
+        "RigNo":"RIG001"
+      }, {
+        "WellLocationRequestID":"1",
+        "Name":"IssueLocationMemo",
+        "FieldName":"Field One",
+        "WellNumber":"WE-1123",
+        "RigNo":"RIG001"
+      }, {
+        "WellLocationRequestID":"1",
+        "Name":"IssueLocationMemo",
+        "FieldName":"Field One",
+        "WellNumber":"WE-1123",
+        "RigNo":"RIG001"
+      }
+    ]
+  },
+  "DetailData":{},
+  "Lookup":{},
+  "AttachmentData":{},
+  "CalculationData":{},
+  "WorkflowData":{}
+}
